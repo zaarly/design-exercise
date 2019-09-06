@@ -1,4 +1,4 @@
-# Design Exercise
+# Design Exercise: Better Promoted Tweets
 **Keep in mind, this is all fake.** We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
 ## Scenario
 Congratualtions – you just started a new job at Twitter on the Desktop Design Team. You're excited and nervous and are also questioning whether or not you _really_ want to work in social media... but none of that matters right now, because today you received your first assignment: **Increase the `Follow Rate` from promoted tweets.**
