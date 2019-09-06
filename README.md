@@ -7,7 +7,7 @@ The majority of our revenue at Twitter comes from our advertising accounts. We c
 
 [<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2008.23.41.png?raw=true" width="800" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
 
-These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account[^1]. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
+These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
 
 <img src="https://github.com/zaarly/design-exercise/blob/master/chart.jpg?raw=true" width="800" />
 
@@ -27,7 +27,7 @@ There are probably a hundred good ideas to explore here, but we can be certain t
 ### Surface the benefit
 Include some copy on the promoted tweet that describes _why_ the user should follow this account. What will they get out of it? Anticipate this copy is something the promoting account will create on their own, but we need you to demonstrate a palatable example.
 
-[example sketch]
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/JTBD%20+%20Shape-Up%20Lessons-39.jpg?raw=true)
 
 ### Summarize the quality of the replies
 There are a lot of lenses to look at this through, and you could really run down some rabbit trails. In the interest of keeping this project quick and light, let's start with surfacing overall likes and retweets across the number of replies.
@@ -42,7 +42,7 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 [example sketch]
 
 ## Instructions & Boundaries
-[^1]: This is all fake. We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
+**Keep in mind, this is all fake.** We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
 
 ### Instructions
 * Use Bootstrap to recereate the status screen linked to above.
