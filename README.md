@@ -6,7 +6,7 @@ Congratualtions – you just started a new job at Twitter on the Desktop Design 
 ## The Problem – promoted tweets don't attract new followers
 The majority of our revenue at Twitter comes from our advertising accounts. We call these `Promoted Tweets`. Here's an example:
 
-[<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2008.23.41.png?raw=true" width="400" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
+[<img src="https://github.com/zaarly/design-exercise/blob/master/promoted-tweet.png?raw=true" width="400" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
 
 These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
 
@@ -19,7 +19,7 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 3. They had to hunt for the follow button.
 
 #### Here's a heatmap that helped inform the questions we asked in our interviews:
-<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2010.09.09.png?raw=true" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
+<img src="https://github.com/zaarly/design-exercise/blob/master/heatmap.png?raw=true" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
 
 ---
 
@@ -29,18 +29,18 @@ There are probably a hundred good ideas to explore here, but we can be certain t
 ### Surface the benefit
 Include some copy on the promoted tweet that describes _why_ the user should follow this account. What will they get out of it? Anticipate this copy is something the promoting account will create on their own, but we need you to demonstrate a palatable example.
 
-![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/JTBD%20+%20Shape-Up%20Lessons-39.jpg?raw=true)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/cta.jpg?raw=true)
 
 ### Summarize the quality of the replies
 There are a lot of lenses to look at this through, and you could really run down some rabbit trails. In the interest of keeping this project quick and light, let's start with surfacing overall likes and retweets across the number of replies.
 
-![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/JTBD%20+%20Shape-Up%20Lessons-40.jpg?raw=true)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/summary.jpg?raw=true)
 
 Seriously - it will be super tempting to argue to measure reply quality in some different ways. We get it. Let's skip that argument for now though. Trust us, it's a can of worms 🐛🐛🐛
 
 ### Emphasize the Follow Button
 Right now, it's buried under a dropdown and/or way off in the right column where nobody is looking.
-![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/JTBD%20+%20Shape-Up%20Lessons-41.jpg?raw=true)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/follow.jpg?raw=true)
 
 ## Instructions & Boundaries
 
