@@ -9,7 +9,7 @@ The majority of our revenue at Twitter comes from our advertising accounts. We c
 
 These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
 
-<img src="https://github.com/zaarly/design-exercise/blob/master/chart.jpg?raw=true" width="300" />
+<img src="https://github.com/zaarly/design-exercise/blob/master/chart.jpg?raw=true" width="800" />
 
 ### The Struggle
 Twitter's user research team interviewed desktop users who _did_ follow accounts from promoted tweets and learned there were three main points of friction they overcame on their own:
