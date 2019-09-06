@@ -34,14 +34,13 @@ Include some copy on the promoted tweet that describes _why_ the user should fol
 ### Summarize the quality of the replies
 There are a lot of lenses to look at this through, and you could really run down some rabbit trails. In the interest of keeping this project quick and light, let's start with surfacing overall likes and retweets across the number of replies.
 
-[example sketch]
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/JTBD%20+%20Shape-Up%20Lessons-40.jpg?raw=true)
 
 Seriously - it will be super tempting to argue to measure reply quality in some different ways. We get it. Let's skip that argument for now though. Trust us, it's a can of worms 🐛🐛🐛
 
 ### Emphasize the Follow Button
 Right now, it's buried under a dropdown and/or way off in the right column where nobody is looking.
-
-[example sketch]
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/JTBD%20+%20Shape-Up%20Lessons-41.jpg?raw=true)
 
 ## Instructions & Boundaries
 
