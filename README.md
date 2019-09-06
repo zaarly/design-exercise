@@ -5,7 +5,7 @@ Congratualtions – you just started a new job at Twitter on the Desktop Design 
 ## The Problem – promoted tweets don't attract new followers
 The majority of our revenue at Twitter comes from our advertising accounts. We call these `Promoted Tweets`. Here's an example:
 
-[<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2008.23.41.png?raw=true" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
+[<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2008.23.41.png?raw=true" width="800" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
 
 These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
 
@@ -18,7 +18,7 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 3. They had to hunt for the follow button.
 
 [annotated screenshot]
-[heat map]
+<img src="" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
 
 ## Our Solution – surface the benefit, summarize the quality of the replies, and emphasize the desired CTA
 There are probably a hundred good ideas to explore here, but we can be certain that addressing these three areas will help us make some meaningful progress.
@@ -47,7 +47,9 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 * Use Bootstrap to recereate the status screen linked to above.
 * Don't use any other frameworks.
 * Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
-* Submit your exercise by creating a pull request on this repo. Please name your PR `FirstInital LastInitial – Design Exercise`
+* **2 ways to submit your exercise:**
+  1. Either create a pull request on this repo and name your PR `FirstInital LastInitial – Design Exercise`
+  2. Or, if your unfamilliar with github, zip up your project in a folder using the same naming convention and email it to `matt@zaarly.com`
 
 ### Out-of-bounds
 * Do not worry about mobile for this. Twitter will only be releasing this update to desktop browsers.
