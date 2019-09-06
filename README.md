@@ -1,5 +1,5 @@
 # Design Exercise
-## Scenario`*`
+## Scenario [^1]
 Congratualtions – you just started a new job at Twitter on the Desktop Design Team. You're excited and nervous and are also questioning whether or not you _really_ want to work in social media... but none of that matters right now, because today you received your first assignment: **Increase the `Follow Rate` from promoted tweets.**
 
 ## The Problem – promoted tweets don't attract new followers
@@ -17,8 +17,9 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 2. They generally assumed retweets and likes were fake (i.e. purchased somehow) and were much more interested in the quality of the replies as social proof.
 3. They had to hunt for the follow button.
 
-[annotated screenshot]
+#### Here's a heatmap that helped inform the questions we asked in our interviews:
 <img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2010.09.09.png?raw=true" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
+
 
 ## Our Solution – surface the benefit, summarize the quality of the replies, and emphasize the desired CTA
 There are probably a hundred good ideas to explore here, but we can be certain that addressing these three areas will help us make some meaningful progress.
@@ -41,7 +42,7 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 [example sketch]
 
 ## Instructions & Boundaries
-`*` This is all fake. We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
+[^1] This is all fake. We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
 
 ### Instructions
 * Use Bootstrap to recereate the status screen linked to above.
