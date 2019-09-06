@@ -5,7 +5,7 @@ Congratualtions – you just started a new job at Twitter on the Desktop Design 
 ## The Problem – promoted tweets don't attract new followers
 The majority of our revenue at Twitter comes from our advertising accounts. We call these `Promoted Tweets`. Here's an example:
 
-[<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2008.23.41.png?raw=true" width="800" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
+[<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2008.23.41.png?raw=true" width="400" alt="A promoted tweet from The New York Times that reads 'Here are the best films of 2019 (so far), chosen by New York Times critics'. An image is included of a man lying on a bed smoking a cigarette and a woman sitting on the floor beside him." title="Example promoted tweet" />](https://twitter.com/nytimes/status/1151963867649589250)
 
 These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
 
