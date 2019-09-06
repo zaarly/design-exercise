@@ -43,14 +43,17 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 ## Instructions & Boundaries
 `*` This is all fake. We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
 
+### Instructions
 * Use Bootstrap to recereate the status screen linked to above.
 * Don't use any other frameworks.
 * Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
+* Submit your exercise by creating a pull request on this repo. Please name your PR `FirstInital LastInitial – Design Exercise`
 
 ### Out-of-bounds
-* Do not worry about mobile for this. We will only be releasing this update to desktop browsers.
-* You don't need to show us multiple options. You have the pitch, give us your best shot.
+* Do not worry about mobile for this. Twitter will only be releasing this update to desktop browsers.
+* You don't need to show multiple options. You have the pitch, give us your best shot.
 * Don't worry about the logged out modal version of the status screen. Just recreate the logged-in version.
-* Don't worry about re-creating the comment thread. All we want to see is the original tweet. You could use placeholder divs or something for the first few comments if that helps your design.
+* Don't worry about re-creating the comment thread. All we want to see is the promoted tweet and the side columns. You could use placeholder divs or something for the first few comments if that helps your design.
+* Nothing server-side. The only code you are writing is HTML, CSS (or Sass if you prefer), and presentational JS (if youre design requires it and you're up to it).
 
 
