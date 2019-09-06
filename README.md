@@ -10,7 +10,7 @@ The majority of our revenue at Twitter comes from our advertising accounts. We c
 
 These promoted tweets get a lot of retweets and a lot of likes, but very few legitimate follows on the promoting account. While 2K people retweeted and 10K people liked the above example tweet within 24 hours, only 15 people followed `@nytimes` from that tweet. The more followers our ads generate, the more valuable they are for us and our advertising accounts.
 
-<img src="https://github.com/zaarly/design-exercise/blob/master/chart.jpg?raw=true" width="800" />
+<img src="https://github.com/zaarly/design-exercise/blob/master/images/chart.jpg?raw=true" width="800" />
 
 ### The Struggle
 Twitter's user research team interviewed desktop users who _did_ follow accounts from promoted tweets and learned there were three main points of friction they overcame on their own:
@@ -19,7 +19,7 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 3. They had to hunt for the follow button.
 
 #### Here's a heatmap that helped inform the questions we asked in our interviews:
-<img src="https://github.com/zaarly/design-exercise/blob/master/heatmap.png?raw=true" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
+![A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself.](https://github.com/zaarly/design-exercise/blob/master/images/heatmap.png?raw=true)
 
 ---
 
@@ -29,18 +29,18 @@ There are probably a hundred good ideas to explore here, but we can be certain t
 ### Surface the benefit
 Include some copy on the promoted tweet that describes _why_ the user should follow this account. What will they get out of it? Anticipate this copy is something the promoting account will create on their own, but we need you to demonstrate a palatable example.
 
-![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/cta.jpg?raw=true)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/images/design-exercise/blob/master/cta.jpg?raw=true)
 
 ### Summarize the quality of the replies
 There are a lot of lenses to look at this through, and you could really run down some rabbit trails. In the interest of keeping this project quick and light, let's start with surfacing overall likes and retweets across the number of replies.
 
-![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/summary.jpg?raw=true)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/images/design-exercise/blob/master/summary.jpg?raw=true)
 
 Seriously - it will be super tempting to argue to measure reply quality in some different ways. We get it. Let's skip that argument for now though. Trust us, it's a can of worms 🐛🐛🐛
 
 ### Emphasize the Follow Button
 Right now, it's buried under a dropdown and/or way off in the right column where nobody is looking.
-![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/blob/master/follow.jpg?raw=true)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/images/design-exercise/blob/master/follow.jpg?raw=true)
 
 ## Instructions & Boundaries
 
