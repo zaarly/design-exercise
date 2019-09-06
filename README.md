@@ -1,6 +1,6 @@
 # Design Exercise
-## Scenario [^1]
-Congratualtions – you just started a new job at Twitter on the Desktop Design Team. You're excited and nervous and are also questioning whether or not you _really_ want to work in social media... but none of that matters right now, because today you received your first assignment: **Increase the `Follow Rate` from promoted tweets.**
+## Scenario
+Congratualtions – you just started a new job at Twitter on the Desktop Design Team. You're excited and nervous and are also questioning whether or not you _really_ want to work in social media... but none of that matters right now, because today you received your first assignment: **Increase the `Follow Rate` from promoted tweets.** [^1]
 
 ## The Problem – promoted tweets don't attract new followers
 The majority of our revenue at Twitter comes from our advertising accounts. We call these `Promoted Tweets`. Here's an example:
