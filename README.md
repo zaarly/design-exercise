@@ -23,7 +23,7 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 
 ---
 
-## Our Solution – surface the benefit, summarize the quality of the replies, and emphasize the desired CTA
+## Our Solution
 There are probably a hundred good ideas to explore here, but we can be certain that addressing these three areas will help us make some meaningful progress.
 
 ### Surface the benefit
