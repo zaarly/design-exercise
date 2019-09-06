@@ -18,6 +18,8 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 2. They generally assumed retweets and likes were fake (i.e. purchased somehow) and were much more interested in the quality of the replies as social proof.
 3. They had to hunt for the follow button.
 
+---
+
 #### Here's a heatmap that helped inform the questions we asked in our interviews:
 <img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2010.09.09.png?raw=true" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
 
