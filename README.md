@@ -18,7 +18,7 @@ Twitter's user research team interviewed desktop users who _did_ follow accounts
 3. They had to hunt for the follow button.
 
 [annotated screenshot]
-<img src="" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
+<img src="https://github.com/zaarly/design-exercise/blob/master/Screenshot%202019-09-06%2010.09.09.png?raw=true" width="800" alt="A heat map of a promoted tweet's status page, showing that the mojority of the interaction happens in the center of the page around the tweet itself." title="Heatmap" />
 
 ## Our Solution – surface the benefit, summarize the quality of the replies, and emphasize the desired CTA
 There are probably a hundred good ideas to explore here, but we can be certain that addressing these three areas will help us make some meaningful progress.
