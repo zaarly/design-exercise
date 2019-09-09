@@ -47,6 +47,7 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 ### Instructions
 * Clone this repo and make your updates on a branch named with your intials (e.g., `fl-design-exercise`).
 * The project is bundled with webpack. Run `yarn run develop` to preview it locally.
+* All of your edits should be made in the `/src` directory.
 * The base project was made with Bootstrap. Please don't use any other frameworks for this exercise.
 * Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
 * **To submit your exercise:** Create a Pull Request on this repo and name your PR using the same naming convention as your branch.
