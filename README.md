@@ -46,8 +46,9 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 ## Instructions & Boundaries
 
 ### Instructions
-* Clone this repo and make your updates on a branch named with your intials (e.g., `fl-design-exercise`).
+* Clone this repo.
 * The project is bundled with webpack. Run `yarn run develop` to preview it locally.
+* The page template should launch in your web browser.
 * All of your edits should be made in the `/src` directory.
 * The base project was made with Bootstrap. Please don't use any other frameworks for this exercise.
 * Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
