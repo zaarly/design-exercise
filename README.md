@@ -29,18 +29,18 @@ There are probably a hundred good ideas to explore here, but we can be certain t
 ### Surface the benefit
 Include some copy on the promoted tweet that describes _why_ the user should follow this account. What will they get out of it? Anticipate this copy is something the promoting account will create on their own, but we need you to demonstrate a palatable example.
 
-![A fat marker sketch of a potential solution](https://github.com/zaarly/images/design-exercise/blob/master/images/cta.jpg)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/images/blob/master/images/cta.jpg)
 
 ### Summarize the quality of the replies
 There are a lot of lenses to look at this through, and you could really run down some rabbit trails. In the interest of keeping this project quick and light, let's start with surfacing overall likes and retweets across the number of replies.
 
-![A fat marker sketch of a potential solution](https://github.com/zaarly/images/design-exercise/blob/master/images/summary.jpg)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/images/blob/master/images/summary.jpg)
 
 Seriously - it will be super tempting to argue to measure reply quality in some different ways. We get it. Let's skip that argument for now though. Trust us, it's a can of worms 🐛🐛🐛
 
 ### Emphasize the Follow Button
 Right now, it's buried under a dropdown and/or way off in the right column where nobody is looking.
-![A fat marker sketch of a potential solution](https://github.com/zaarly/images/blob/master/images/follow.jpg)
+![A fat marker sketch of a potential solution](https://github.com/zaarly/design-exercise/images/blob/master/images/follow.jpg)
 
 ## Instructions & Boundaries
 
