@@ -47,12 +47,12 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 
 ### Instructions
 * Clone this repo.
-* The project is bundled with webpack. Run `yarn run develop` to preview it locally.
+* The project is bundled with webpack. Run `yarn run develop` in your terminal to preview it locally.
 * The page template should launch in your web browser.
 * All of your edits should be made in the `/src` directory.
 * The base project was made with Bootstrap. Please don't use any other frameworks for this exercise.
-* Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
-* **To submit your exercise:** Create a Pull Request on this repo and name your PR using the same naming convention as your branch.
+* Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be written/made from scratch.
+* **To submit your exercise:** Either deploy your project somewhere and send us the link to `matt@zaarly.com` or zip up your source files and send them to `matt@zaarly.com`
 
 ### Out-of-bounds
 * Do not worry about mobile for this. Twitter will only be releasing this update to desktop browsers.
