@@ -45,12 +45,11 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 ## Instructions & Boundaries
 
 ### Instructions
-* Use Bootstrap to recereate the status screen linked to above.
-* Don't use any other frameworks.
+* Clone this repo and make your updates on a branch named with your intials (e.g., `fl-design-exercise`).
+* The project is bundled with webpack. Run `yarn run develop` to preview it locally.
+* The base project was made with Bootstrap. Please don't use any other frameworks for this exercise.
 * Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
-* **2 ways to submit your exercise:**
-  1. Either create a pull request on this repo and name your PR `FirstInital LastInitial – Design Exercise`
-  2. Or, if your unfamilliar with github, zip up your project in a folder using the same naming convention and email it to `matt@zaarly.com`
+* **To submit your exercise:** Create a Pull Request on this repo and name your PR using the same naming convention as your branch.
 
 ### Out-of-bounds
 * Do not worry about mobile for this. Twitter will only be releasing this update to desktop browsers.

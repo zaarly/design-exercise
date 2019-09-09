@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color: #0c0c0c;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    font-weight: 600
+}
+
+ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #0c0c0c;
+}
+
+a {
+    text-decoration: none;
+    color: #0c0c0c;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.mt-20 {
+    margin-top: 20px
+}
+
+.mt-50 {
+    margin-top: 50px
+}
+
+
+
+
+
+
+
+/****************** tw-Menu Area **********************/
+
+.tr-tweet a {
+    color: #24a1ef;
+    font-size: 30px;
+}
+
+.tw-menu span {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 10px;
+    width: 30px !important;
+}
+
+.tw-menu span img {
+    width: 100%;
+    border-radius: 50%
+}
+
+.tw-menu ul li a {
+    display: block;
+    font-weight: 700;
+    padding: 8px 0;
+}
+
+.tw-menu ul li a:hover {
+    color: #24A1EF
+}
+
+.ui-more {
+    cursor: pointer;
+}
+
+/****************** tw-Menu Area **********************/
+/*--***************** tw-middle Post Area **********************/
+
+.tw-middle {
+    border-left: 1px solid #ccd7dd;
+    border-right: 1px solid #ccd7dd;
+    margin-bottom: 40px;
+    padding: 0 10px;
+}
+
+.tw-backbtn a span {
+    color: #24a1ef;
+    font-size: 15px;
+    margin-right: 26px;
+}
+
+.tw-backbtn > a {
+    font-weight: 700;
+}
+
+.tw-profile-area {
+    display: flex;
+    margin: 40px 0 0;
+}
+
+.tw-profile {
+    margin-right: 10px;
+    width: 50px;
+}
+
+.tw-profile img {
+    border-radius: 50%;
+    width: 100%;
+}
+
+.tr-post-img-content {
+    border: 1px solid #ccd7dd;
+    border-radius: 10px;
+    margin: 30px 0 10px;
+}
+
+.tw-profile-content {
+    width: 100%;
+}
+
+.tr-post-img-content img {
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+}
+
+.tr-post-img-content h6 {
+    padding: 16px 10px 0;
+}
+
+.tr-post-img-content > p {
+    color: #464646;
+    padding: 10px;
+}
+
+.tw-post-time span {
+    margin-right: 10px;
+}
+
+.tw-post-view,
+.tw-post-time,
+.tw-post-download,
+.tw-post-reply {
+    border-bottom: 1px solid #CCD7DD;
+    padding: 10px 0;
+}
+
+.tw-post-time p {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.tw-post-time a {
+    color: #24a1ef;
+    font-weight: 400;
+}
+
+.tw-post-view p {
+    font-weight: 700;
+}
+
+.tw-post-view p span {
+    color: #464646;
+    font-weight: 600;
+    margin: 0 16px 0 2px;
+}
+
+.tw-post-download > p {
+    cursor: pointer;
+}
+
+.tw-post-download p span {
+    font-size: 13px;
+    margin-left: 2px;
+}
+
+.tw-post-download {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.tw-profile-area .tw-post-download {
+    justify-content: flex-start;
+    padding: 10px 0;
+}
+
+.tw-profile-area .tw-post-download p {
+    margin-right: 50px;
+}
+
+.tw-profile-area .tw-post-download p:last-child {
+    margin-right: 0;
+}
+
+.tw-profile-content h5 span {
+    color: #414141;
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.gif-img {
+    position: relative;
+    z-index: 1;
+}
+
+.play {
+    background: #fff none repeat scroll 0 0;
+    border: 4px solid #fff;
+    border-radius: 50%;
+    color: #0078d7;
+    font-size: 47px;
+    left: 50%;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tw-replay {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    color: #24a1ef;
+    cursor: pointer;
+}
+
+.tw-profile-area.reply-comment {
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.comments-area {
+    position: relative;
+    z-index: 1;
+}
+
+.comments-area::after {
+    background: #e6edf1;
+    content: "";
+    height: 78%;
+    left: 21px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+    z-index: -1;
+}
+
+/*--***************** tw-middle Post Area **********************/
+/****************** tw-right Post Area **********************/
+
+.tw-src {
+    position: relative;
+    z-index: 1;
+}
+
+.tw-src input {
+    background: #e6edf1 none repeat scroll 0 0;
+    border: 1px solid #e6edf1;
+    border-radius: 30px;
+    color: #252526;
+    padding: 3px 0 7px 40px;
+    width: 100%
+}
+
+.src-icon {
+    color: #ccd7dd;
+    cursor: pointer;
+    left: 15px;
+    position: absolute;
+    top: 3px;
+    width: 30px;
+}
+
+.tw-relevant,
+.tw-trends {
+    border: 1px solid #e6edf1;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 15px 10px;
+}
+
+.tw-trends {
+    background: #f6f9fb none repeat scroll 0 0;
+}
+
+
+.tw-televent-pe > h5 {
+    font-size: 16px;
+}
+
+.tw-profile-content p {
+    font-size: 13px;
+}
+
+.tw-profile-content a {
+    color: #24a1ef;
+    font-weight: 400;
+}
+
+.tw-trands-content h5 {
+    font-size: 16px;
+}
+
+
+.tw-televent-pe,
+.tw-trands-content {
+    border-bottom: 1px solid #e6edf1;
+    padding: 10px 0;
+}
+
+.tw-televent-pe {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tw-televent-pe h6 {
+    color: #1ec9fb;
+}
+
+.tw-trands-content p {
+    color: #464646;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 5px
+}
+
+.tw-footer {
+    margin: 30px 5px;
+}
+
+.tw-footer > p {
+    color: #464646;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.tw-footer span {
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+/****************** tw-right Post Area **********************/

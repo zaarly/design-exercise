@@ -1,0 +1,51 @@
+/* (1366x768) WXGA Display */
+/*		Medium Device	*/
+
+
+
+
+
+
+/*		Medium Device	*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .tw-menu span {
+        font-size: 18px;
+    }
+
+    .tw-menu ul li a {
+        font-weight: 600;
+        font-size: 14px
+    }
+}
+
+
+/*		Tablet Layout: 768px.	*/
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+
+    .mmt-30 {
+        margin-top: 30px
+    }
+
+    .tw-menu ul li {
+        display: inline-block;
+        margin-right: 16px;
+    }
+
+    .tw-menu span {
+        margin-right: 2px;
+
+    }
+}
+
+
+/*		Mobile Layout: 320px.    */
+
+@media only screen and (max-width: 767px) {}
+
+
+
+
+/*		Wide Mobile Layout: 480px.    */
+
+@media only screen and (max-width: 450px) {}
