@@ -1,0 +1,231 @@
+// Bootstrap Themes
+@import "./bootstrap/functions";
+@import "./bootstrap/variables";
+@import "./bootstrap/mixins";
+@import "./bootstrap/reboot";
+@import "./bootstrap/grid";
+@import "./bootstrap/buttons";
+@import "./bootstrap/card";
+@import "./bootstrap/forms";
+@import "./bootstrap/images";
+@import "./bootstrap/list-group";
+@import "./bootstrap/dropdown";
+@import "./bootstrap/input-group";
+@import "./bootstrap/utilities/display";
+@import "./bootstrap/utilities/borders";
+@import "./bootstrap/utilities/text";
+@import "./bootstrap/utilities/flex";
+@import "./bootstrap/utilities/spacing";
+
+header {
+  & > div {
+    display: block;
+    &:first-child {
+      padding-bottom: 2px;
+      padding-top: 2px;
+      a {
+        svg {
+          path {
+            fill: $primary;
+          }
+        }
+      }
+    }
+    &:nth-child(2) {
+      margin-top: 2px;
+      margin-bottom: 5px;
+      nav {
+        a,
+        & > div {
+          display: block;
+          div.btn {
+            &:hover {
+              background: rgba($primary, 0.1);
+            }
+          }
+        }
+        a:hover {
+          div.btn {
+            background: rgba($primary, 0.1);
+          }
+        }
+      }
+    }
+  }
+  & > .btn-lg {
+    display: block;
+    width: 85%;
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    div {
+      display: inline;
+    }
+  }
+}
+
+main {
+  .feed-head {
+    z-index: 500;
+    width: (5/12) * 100%;
+    left: 25%;
+    position: fixed;
+    height: 53px;
+    background: white;
+    a.btn-sm {
+      position: inline;
+      &:hover {
+        background: rgba($primary, 0.1);
+      }
+      svg {
+        path {
+          fill: $primary;
+        }
+      }
+    }
+    h2 {
+      display: inline;
+      vertical-align: middle;
+    }
+  }
+  .card {
+    &:nth-child(2) {
+      margin-top: 58px;
+    }
+    .dropdown {
+      display: inline;
+      position: absolute;
+      right: 0 !important;
+      div.dropdown-menu.show {
+        z-index: 400;
+        top: -40px !important;
+        left: -130px !important;
+      }
+      a {
+        color: #000;
+        svg {
+          path {
+            fill: #000;
+          }
+        }
+      }
+    }
+    svg {
+      height: 2rem;
+      path {
+        fill: $primary;
+      }
+    }
+    .card-title {
+      font-size: 1.75rem;
+    }
+    .card-header {
+      p {
+        display: inline-block;
+        margin-top: 0.5rem;
+      }
+      img.img-fluid.rounded-circle {
+        display: inline !important;
+        position: static;
+        max-height: 3.3rem;
+        margin-top: -1.4rem;
+        display: inline;
+      }
+      svg {
+        display: inline;
+        height: 1.25rem;
+      }
+    }
+    figure {
+      overflow: hidden;
+      a:hover {
+        text-decoration: none;
+      }
+    }
+    & > div {
+      a {
+        color: $primary;
+      }
+    }
+    ul.list-group {
+      li.list-group-item {
+        width: 25%;
+        svg {
+          height: 1.5rem;
+          path {
+            fill: $gray-500;
+          }
+        }
+      }
+    }
+  }
+}
+
+.info-sidebar {
+  form {
+    position: fixed;
+    z-index: 500;
+    height: 53px;
+    width: 29%;
+    background: #fff;
+    .input-group {
+      background: rgb(230, 236, 240);
+      color: rgb(101, 119, 134);
+      button {
+        svg {
+          path {
+            fill: rgb(101, 119, 134);
+          }
+        }
+      }
+      &:focus {
+        background: transparent;
+        border: $primary;
+      }
+    }
+  }
+  & > aside {
+    &:nth-child(2) {
+      margin-top: 58px;
+      .form-row {
+        div:nth-child(2) {
+          .btn.btn-outline-primary {
+            display: inline;
+            position: absolute;
+            right: 0;
+          }
+          svg {
+            height: 1.25rem;
+          }
+        }
+      }
+    }
+    &:nth-child(3) {
+      background: rgb(230, 236, 240);
+      h2 {
+        display: inline-block;
+        position: absolute;
+      }
+    }
+    svg {
+      height: 2rem;
+      path {
+        fill: $primary;
+      }
+    }
+    a {
+      color: #000;
+    }
+    li:last-child {
+      a {
+        color: $primary;
+      }
+    }
+  }
+  .dropdown-menu {
+    z-index: 400;
+    transform: translateY(-100%);
+  }
+}
