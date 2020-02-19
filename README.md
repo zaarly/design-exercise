@@ -1,7 +1,8 @@
+[**Jump to instrcutions 👇**](#instructions--boundaries)
 # Design Exercise: Better Promoted Tweets
 **Keep in mind, this is all fake.** We don't have any special knowledge about Twitter's revenue models, business challenges, or user goals (other than what common sense tells us). While this scenario is imaginary, it _is_ a close approximation to how we like to work at Zaarly. As a designer here, this is the kind of project outline you would receive each [project cycle](https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles).
 ## Scenario
-Congratualtions – you just started a new job at Twitter on the Desktop Design Team. You're excited and nervous and are also questioning whether or not you _really_ want to work in social media... but none of that matters right now, because today you received your first assignment: **Increase the `Follow Rate` from promoted tweets.**
+Congratulations – you just started a new job at Twitter on the Desktop Design Team. You're excited and nervous and are also questioning whether or not you _really_ want to work in social media... but none of that matters right now, because today you received your first assignment: **Increase the `Follow Rate` from promoted tweets.**
 
 ## The Problem – promoted tweets don't attract new followers
 The majority of our revenue at Twitter comes from our advertising accounts. We call these `Promoted Tweets`. Here's an example:
@@ -45,11 +46,13 @@ Right now, it's buried under a dropdown and/or way off in the right column where
 ## Instructions & Boundaries
 
 ### Instructions
-* Clone this repo and make your updates on a branch named with your intials (e.g., `fl-design-exercise`).
-* The project is bundled with webpack. Run `yarn run develop` to preview it locally.
+* Clone this repo.
+* The project is bundled with webpack. Run `yarn run develop` in your terminal to preview it locally.
+* The page template should launch in your web browser.
+* All of your edits should be made in the `/src` directory.
 * The base project was made with Bootstrap. Please don't use any other frameworks for this exercise.
-* Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be made from scratch.
-* **To submit your exercise:** Create a Pull Request on this repo and name your PR using the same naming convention as your branch.
+* Any  CSS, JS, iconography, or other design assets outside of Bootstrap should be written/made from scratch.
+* **To submit your exercise:** Either deploy your project somewhere and send us the link to `matt@zaarly.com` or zip up your source files and send them to `matt@zaarly.com`
 
 ### Out-of-bounds
 * Do not worry about mobile for this. Twitter will only be releasing this update to desktop browsers.
